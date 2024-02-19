@@ -78,3 +78,4 @@ server.get("/api/products/:type", async (req, res) => {
 )
 
 server.listen(4000)
+//test 2
